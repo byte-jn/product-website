@@ -297,9 +297,8 @@ th {
     background-color: #f2f2f2;
 }
 
-.sus {
+.s {
     z-index: -10;
-    position: fixed;
 }
 
 footer {
@@ -315,18 +314,6 @@ footer {
 
 footer a{
     color: white;
-}
-
-.footer {
-    position: fixed;
-    z-index: 999;
-    bottom: 40px;
-    height: auto;
-    border-radius: 10px;
-    width: 100%;
-    margin-left: -8px;
-    color:white;
-    background-color: rgba(0, 0, 0, 0.78);
 }
 
 .footer-content {
